@@ -16,4 +16,5 @@ To start the app:
 * @Terminal 2:
   $ node server
 
-* Open browser and go to localhost:8080/searchbar 
+* Open browser and go to localhost:8080/searchbar
+* Type in "Drake" or "Selena" to see a list of suggestions appear
