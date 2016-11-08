@@ -6,7 +6,8 @@ Dev-Process:
 To start the app:
 * Run the _QUICKDEV.bat file (For Windows only)
 * Run " $ node server " @ empty terminal
-or
+
+* or
 
 * Open two bash terminals at root
 * @Terminal 1:
@@ -14,3 +15,5 @@ or
 
 * @Terminal 2:
   $ node server
+
+* Open browser and go to localhost:8080/searchbar 
